@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feels_like">Ощущается как: %d°C</string>
+    <string name="lang">ru</string>
+    <string name="kph">%d км/ч</string>
+    <string name="millibars">%d мм рт. ст.</string>
+    <string name="reload">Перезагрузить</string>
+</resources>

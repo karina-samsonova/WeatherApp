@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="title_features" translatable="false">Features</string>
+    <string name="title_current_weather" translatable="false">Current Weather</string>
+</resources>
